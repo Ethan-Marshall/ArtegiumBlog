@@ -14,11 +14,11 @@ const siteMetadata = {
   email: 'ethan@artegium.tech',
   github: 'https://github.com/Ethan-Marshall',
   twitter: 'https://x.com/Artegium',
-  facebook: 'https://facebook.com',
+  //facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com/@Artegium',
   linkedin: 'https://www.linkedin.com/in/ethannmarshall/',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  //threads: 'https://www.threads.net',
+  //instagram: 'https://www.instagram.com',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
