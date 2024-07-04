@@ -13,7 +13,7 @@ const siteMetadata = {
   mastodon: 'https://infosec.exchange/@Artegium',
   email: 'ethan@artegium.tech',
   github: 'https://github.com/Ethan-Marshall',
-  x: 'https://twitter.com/x',
+  x: 'https://x.com/artegium',
   // twitter: 'https://twitter.com/Twitter',
   //facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com/@Artegium',
