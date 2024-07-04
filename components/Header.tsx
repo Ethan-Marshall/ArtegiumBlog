@@ -5,7 +5,7 @@ import Link from './Link'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import SearchButton from './SearchButton'
-import Image from 'next/image'
+import Image from '@/components/Image'
 
 
 const Header = () => {
@@ -16,7 +16,7 @@ const Header = () => {
           <div className="flex items-center justify-between">
             <div className="mr-3">
                 <Image
-                src="@/data/logo.png"
+                src={Logo.src}
                 alt="Logo"
                 width={150}
                 height={150}
