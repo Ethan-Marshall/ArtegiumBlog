@@ -14,6 +14,7 @@ const siteMetadata = {
   email: 'ethan@artegium.tech',
   github: 'https://github.com/Ethan-Marshall',
   x: 'https://x.com/Artegium',
+  // twitter: 'https://twitter.com/Twitter',
   //facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com/@Artegium',
   linkedin: 'https://www.linkedin.com/in/ethannmarshall/',
