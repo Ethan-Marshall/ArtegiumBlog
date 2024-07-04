@@ -19,7 +19,7 @@ const siteMetadata = {
   youtube: 'https://www.youtube.com/@Artegium',
   linkedin: 'https://www.linkedin.com/in/ethannmarshall/',
   //threads: 'https://www.threads.net',
-  //instagram: 'https://www.instagram.com',
+  instagram: 'https://www.instagram.com',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
