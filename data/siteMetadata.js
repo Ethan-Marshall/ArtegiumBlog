@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://artegium-blog.vercel.app',
   siteRepo: 'https://github.com/Ethan-Marshall/ArtegiumBlog',
-  siteLogo: '/static/images/logo1.png',
+  siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://infosec.exchange/@Artegium',
   email: 'ethan@artegium.tech',
