@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Artegium',
   author: 'Ethan Marshall',
   headerTitle: 'Artegium',
-  description: 'A blog to document my research.',
+  description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://artegium-blog.vercel.app',
